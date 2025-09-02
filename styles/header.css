@@ -1,0 +1,36 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    padding: 2em 5em;
+}
+
+.header__nav {
+    display: flex;
+    gap: 13em;
+    align-items: center;
+}
+
+.header__menu {
+    display: flex;
+    gap: 2em;
+}
+
+.header__menu-item {
+    text-decoration: none;
+    color: var(--cinza);
+}
+
+.header__actions {
+    display: flex;
+    gap: 1em;
+    align-items: center;
+}
+
+.header__actions-ancor {
+    background-color: var(--vinho);
+    color: var(--branco);
+    text-decoration: none;
+    padding: 0.5em 1em;
+    border-radius: 5px;
+
+}
