@@ -6,7 +6,7 @@
     padding: 5em 0;
 }
 
-.banner__subtittle {
+.banner__subtitle {
     color: var(--vinho);
     font-weight: 600;
     background-color: var(--rosa-claro);
@@ -48,13 +48,13 @@
     align-items: center;
 }
 
-.banner__data-tittle {
+.banner__data-title {
     font-size: 60px;
     font-weight: 600;
     color: var(--vinho);
 }
 
-.banner__data__subtittle {
+.banner__data__subtitle {
     font-weight: 500;
     color: var(--azul-escuro);
     font-size: 18px;
@@ -76,7 +76,7 @@
     margin-top: 5em;
 }
 
-.second__banner-subtittle {
+.second__banner-subtitle {
     color: var(--vinho);
     font-weight: 600;
     background-color: var(--rosa-claro);
@@ -85,7 +85,7 @@
     font-size: 14px;
 }
 
-.second__banner-tittle {
+.second__banner-title {
     font-size: 36px;
     font-weight: 700;
     color: var(--azul-escuro);
@@ -109,7 +109,7 @@
     gap: 3em;
 }
 
-.banner-list--tittle {
+.banner-list--title {
     font-size: 20px;
     font-weight: 500;
 }

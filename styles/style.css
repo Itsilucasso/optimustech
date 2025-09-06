@@ -1,5 +1,6 @@
 @import url("header.css");
 @import url("banner.css");
+@import url("feedback.css");
 
 :root {
     --branco: #ffffff;
@@ -7,7 +8,7 @@
     --azul-escuro: #101828;
     --cinza: #667085;
     --cinza-claro: #eaecf0;
-    --rosa-claro: #fee8e8;
+    --rosa-claro: #f6eeee;
     --fonte-principal: "Inter", sans-serif;
 }
 
